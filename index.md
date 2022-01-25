@@ -13,12 +13,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # PROJECT 1
 
 FRAUD DETECTION : Its a set of processes to detect anomalies in the Data and based on recurring patterns determine whether the Piece of Data is a Fraud
-https://pimages.toolbox.com/wp-content/uploads/2021/06/16094651/Fraud-Detection.png
+<center><img src=https://pimages.toolbox.com/wp-content/uploads/2021/06/16094651/Fraud-Detection.png/><center/>
 
 # PROJECT 2
 
 TIME SERIES FINANCE MODEL:
-https://miro.medium.com/max/1124/1*BMnVgXo_tRPblzxrCHYbfg.png
+
+<center><img src=https://miro.medium.com/max/1124/1*BMnVgXo_tRPblzxrCHYbfg.png/><center/>  
+
 
 
 ### Header 3
