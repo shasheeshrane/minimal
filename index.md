@@ -5,7 +5,8 @@
 ### Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
-
+The one in the link is inspired by https://www.tutorialspoint.com/fraud-detection-in-python, We have used the code from there.
+This page is for study purpose
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shasheeshrane/fraud_detection)
 
